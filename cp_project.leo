@@ -18,7 +18,7 @@
 <v t="2014spring.20140430175148.1771"><vh>@edit README.md</vh></v>
 <v t="2015.20140906140521.3770"><vh>@edit setup.py</vh></v>
 <v t="course-mde-tw.20140417093332.2027" a="E"><vh>@path wsgi</vh>
-<v t="2015.20140906140521.4229"><vh>@path static/templates</vh>
+<v t="2015.20140906140521.4229" a="E"><vh>@path static/templates</vh>
 <v t="2015.20140906140521.4234"><vh>@edit meta.html</vh></v>
 <v t="2015.20140906140521.4230"><vh>@edit index.html</vh></v>
 <v t="2015.20140906140521.4233"><vh>@edit default.html</vh></v>
@@ -27,8 +27,9 @@
 <v t="2015.20140906140521.4232"><vh>@edit footer.html</vh></v>
 </v>
 <v t="2015.20140907143819.2148"><vh>@edit pybean.py</vh></v>
-<v t="course-mde-tw.20140417093332.2028"><vh>@auto application_orig.py</vh></v>
-<v t="2015.20140907143819.1791" a="E"><vh>@file application</vh></v>
+<v t="course-mde-tw.20140417093332.2028" a="E"><vh>@auto application_orig.py</vh></v>
+<v t="2015.20140907143819.1791" a="E"
+expanded="2015.20140907143819.1793,"><vh>@file application</vh></v>
 <v t="2015.20140907143819.2142" a="E"
 expanded="2015.20140907143819.2144,"><vh>@file gear.py</vh></v>
 </v>
